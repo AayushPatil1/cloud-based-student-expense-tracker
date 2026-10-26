@@ -1,0 +1,6 @@
+
+Flask
+gunicorn
+PyMySQL
+boto3
+python-dotenv
